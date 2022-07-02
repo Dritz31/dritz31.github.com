@@ -1,2 +1,2 @@
-# dritz31.github.com
+# dritz31
 Mi página web
